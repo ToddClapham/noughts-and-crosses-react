@@ -2,13 +2,6 @@
 
 This is the game Noughts and Crosses built with React. Players can enter their names and then play the game. The game keeps track of turns, determines the winner, and handles draw situations.
 
-## Features
-
-- Enter player names
-- Play Noughts and Crosses
-- Determine the winner or a draw
-- Restart the game
-
 ## Getting Started
 
 ### Installation
